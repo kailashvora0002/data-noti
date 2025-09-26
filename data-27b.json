@@ -1,66 +1,69 @@
 [
-  {
-    "id": 1,
-    "hours": 9,
-    "minutes": 01,
-    "daysOfWeek": [2, 4,6],
-    "image": false,
-    "button": {
-      "text": {
-  "en-US": "Open app",
-  "ar-SA": "افتح التطبيق",
-  "de-DE": "App öffnen",
-  "es-ES": "Abrir aplicación",
-  "fr-FR": "Ouvrir l'application",
-  "hi-IN": "ऐप खोलें",
-  "id-ID": "Buka aplikasi",
-  "it-IT": "Apri app",
-  "vi-VN": "Mở app",
-  "ja-JP": "アプリを開く",
-  "ko-KR": "앱 열기",
-  "km-KH": "បើកកម្មវិធី",
-  "pt-PT": "Abrir app",
-  "ru-RU": "Открыть приложение",
-  "th-TH": "เปิดแอป",
-  "zh-CN": "打开应用"
-}
-    },
-    "title":{
-  "en-US": "Let us protect you",
-  "ar-SA": "دعنا نحميك",
-  "de-DE": "Lass uns dich beschützen",
-  "es-ES": "Déjanos protegerte",
-  "fr-FR": "Laissez-nous vous protéger",
-  "hi-IN": "हमें आपकी रक्षा करने दें",
-  "id-ID": "Biarkan kami melindungi Anda",
-  "it-IT": "Lascia che ti proteggiamo",
-  "vi-VN": "Hãy để chúng tôi bảo vệ bạn",
-  "ja-JP": "私たちにあなたを守らせてください",
-  "ko-KR": "우리가 당신을 보호하게 해주세요",
-  "km-KH": "អនុញ្ញាតឲ្យយើងការពារអ្នក",
-  "pt-PT": "Deixe-nos protegê-lo",
-  "ru-RU": "Позвольте нам защитить вас",
-  "th-TH": "ให้เราปกป้องคุณ",
-  "zh-CN": "让我们来保护你"
-}
-,
-    "titleSub": {
-  "en-US": "Note down your feelings or symptoms today to better track your health",
-  "ar-SA": "دوّن مشاعرك أو أعراضك اليوم لتتبع صحتك بشكل أفضل",
-  "de-DE": "Notiere dir heute deine Gefühle oder Symptome, um deine Gesundheit besser zu verfolgen",
-  "es-ES": "Anota tus emociones o síntomas de hoy para hacer un mejor seguimiento de tu salud",
-  "fr-FR": "Notez vos émotions ou symptômes d’aujourd’hui pour mieux suivre votre santé",
-  "hi-IN": "आज अपनी भावनाएँ या लक्षण लिखें ताकि आप अपने स्वास्थ्य को बेहतर तरीके से ट्रैक कर सकें",
-  "id-ID": "Catat perasaan atau gejala Anda hari ini untuk memantau kesehatan dengan lebih baik",
-  "it-IT": "Annota le tue emozioni o i sintomi di oggi per monitorare meglio la tua salute",
-  "vi-VN": "Hãy ghi chú cảm xúc hoặc triệu chứng hôm nay, để theo dõi sức khỏe tốt hơn",
-  "ja-JP": "今日の気持ちや症状を記録して、健康をよりよく管理しましょう",
-  "ko-KR": "오늘의 감정이나 증상을 기록하여 건강을 더 잘 추적하세요",
-  "km-KH": "សូមកត់ត្រាអារម្មណ៍ ឬរោគសញ្ញារបស់អ្នកថ្ងៃនេះ ដើម្បីតាមដានសុខភាពបានល្អប្រសើរ",
-  "pt-PT": "Anote os seus sentimentos ou sintomas de hoje para acompanhar melhor a sua saúde",
-  "ru-RU": "Запишите свои чувства или симптомы сегодня, чтобы лучше отслеживать здоровье",
-  "th-TH": "บันทึกความรู้สึกหรืออาการของคุณวันนี้ เพื่อการติดตามสุขภาพที่ดีขึ้น",
-  "zh-CN": "记录下你今天的情绪或症状，以便更好地追踪健康状况"
-}
-  }
+    {
+        "id": 1,
+        "hours": 9,
+        "minutes": 1,
+        "daysOfWeek": [
+            2,
+            4,
+            6
+        ],
+        "image": false,
+        "button": {
+            "text": {
+                "en-US": "Open app",
+                "ar-SA": "افتح التطبيق",
+                "de-DE": "App öffnen",
+                "es-ES": "Abrir aplicación",
+                "fr-FR": "Ouvrir l'application",
+                "hi-IN": "ऐप खोलें",
+                "id-ID": "Buka aplikasi",
+                "it-IT": "Apri app",
+                "vi-VN": "Mở app",
+                "ja-JP": "アプリを開く",
+                "ko-KR": "앱 열기",
+                "km-KH": "បើកកម្មវិធី",
+                "pt-PT": "Abrir app",
+                "ru-RU": "Открыть приложение",
+                "th-TH": "เปิดแอป",
+                "zh-CN": "打开应用"
+            }
+        },
+        "title": {
+            "en-US": "Let us protect you",
+            "ar-SA": "دعنا نحميك",
+            "de-DE": "Lass uns dich beschützen",
+            "es-ES": "Déjanos protegerte",
+            "fr-FR": "Laissez-nous vous protéger",
+            "hi-IN": "हमें आपकी रक्षा करने दें",
+            "id-ID": "Biarkan kami melindungi Anda",
+            "it-IT": "Lascia che ti proteggiamo",
+            "vi-VN": "Hãy để chúng tôi bảo vệ bạn",
+            "ja-JP": "私たちにあなたを守らせてください",
+            "ko-KR": "우리가 당신을 보호하게 해주세요",
+            "km-KH": "អនុញ្ញាតឲ្យយើងការពារអ្នក",
+            "pt-PT": "Deixe-nos protegê-lo",
+            "ru-RU": "Позвольте нам защитить вас",
+            "th-TH": "ให้เราปกป้องคุณ",
+            "zh-CN": "让我们来保护你"
+        },
+        "titleSub": {
+            "en-US": "Note down your feelings or symptoms today to better track your health",
+            "ar-SA": "دوّن مشاعرك أو أعراضك اليوم لتتبع صحتك بشكل أفضل",
+            "de-DE": "Notiere dir heute deine Gefühle oder Symptome, um deine Gesundheit besser zu verfolgen",
+            "es-ES": "Anota tus emociones o síntomas de hoy para hacer un mejor seguimiento de tu salud",
+            "fr-FR": "Notez vos émotions ou symptômes d’aujourd’hui pour mieux suivre votre santé",
+            "hi-IN": "आज अपनी भावनाएँ या लक्षण लिखें ताकि आप अपने स्वास्थ्य को बेहतर तरीके से ट्रैक कर सकें",
+            "id-ID": "Catat perasaan atau gejala Anda hari ini untuk memantau kesehatan dengan lebih baik",
+            "it-IT": "Annota le tue emozioni o i sintomi di oggi per monitorare meglio la tua salute",
+            "vi-VN": "Hãy ghi chú cảm xúc hoặc triệu chứng hôm nay, để theo dõi sức khỏe tốt hơn",
+            "ja-JP": "今日の気持ちや症状を記録して、健康をよりよく管理しましょう",
+            "ko-KR": "오늘의 감정이나 증상을 기록하여 건강을 더 잘 추적하세요",
+            "km-KH": "សូមកត់ត្រាអារម្មណ៍ ឬរោគសញ្ញារបស់អ្នកថ្ងៃនេះ ដើម្បីតាមដានសុខភាពបានល្អប្រសើរ",
+            "pt-PT": "Anote os seus sentimentos ou sintomas de hoje para acompanhar melhor a sua saúde",
+            "ru-RU": "Запишите свои чувства или симптомы сегодня, чтобы лучше отслеживать здоровье",
+            "th-TH": "บันทึกความรู้สึกหรืออาการของคุณวันนี้ เพื่อการติดตามสุขภาพที่ดีขึ้น",
+            "zh-CN": "记录下你今天的情绪或症状，以便更好地追踪健康状况"
+        }
+    }
 ]
