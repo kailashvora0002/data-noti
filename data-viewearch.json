@@ -2,11 +2,10 @@
     "fixed_type": [
         {
             "id": 1,
+            "welcome":true,
             "hours": 10,
             "minutes": 0,
-            "daysOfWeek": [
-                5
-            ],
+            "daysOfWeek": false,
             "image": false,
             "button": {
                 "text": {
