@@ -1,0 +1,640 @@
+{
+    "fixed_type": [
+        {
+            "id": 1,
+            "welcome":true,
+            "hours": 10,
+            "minutes": 0,
+            "daysOfWeek": false,
+            "image": false,
+            "button": {
+                "text": {
+                    "vi-VN": "Khám phá",
+                    "en-US": "Explore",
+                    "pt-PT": "Explorar",
+                    "es-ES": "Explorar",
+                    "fr-FR": "Explorer",
+                    "ko-KR": "탐색",
+                    "ja-JP": "探索",
+                    "zh-CN": "探索",
+                    "ar-SA": "استكشف",
+                    "de-DE": "Erkunden",
+                    "id-ID": "Jelajahi",
+                    "th-TH": "สำรวจ",
+                    "hi-IN": "खोजें"
+                }
+            },
+            "title": {
+                "vi-VN": "🌎 Chào mừng đến với Earth Live Cam!",
+                "en-US": "🌎 Welcome to Earth Live Cam!",
+                "pt-PT": "🌎 Bem-vindo ao Earth Live Cam!",
+                "es-ES": "🌎 ¡Bienvenido a Earth Live Cam!",
+                "fr-FR": "🌎 Bienvenue sur Earth Live Cam !",
+                "ko-KR": "🌎 Earth Live Cam에 오신 것을 환영합니다!",
+                "ja-JP": "🌎 Earth Live Camへようこそ！",
+                "zh-CN": "🌎 欢迎来到 Earth Live Cam！",
+                "ar-SA": "🌎 مرحبًا بك في Earth Live Cam!",
+                "de-DE": "🌎 Willkommen bei Earth Live Cam!",
+                "id-ID": "🌎 Selamat datang di Earth Live Cam!",
+                "th-TH": "🌎 ยินดีต้อนรับสู่ Earth Live Cam!",
+                "hi-IN": "🌎 Earth Live Cam में आपका स्वागत है!"
+            },
+            "titleSub": {
+                "vi-VN": "Khám phá khung cảnh trực tiếp từ khắp nơi trên thế giới ngay bây giờ.",
+                "en-US": "Explore live views from around the world right now.",
+                "pt-PT": "Explore vistas ao vivo de todo o mundo agora.",
+                "es-ES": "Explora vistas en vivo de todo el mundo ahora.",
+                "fr-FR": "Explorez des vues en direct du monde entier dès maintenant.",
+                "ko-KR": "지금 전 세계의 실시간 영상을 탐색하세요.",
+                "ja-JP": "今すぐ世界中のライブ映像を探索しよう。",
+                "zh-CN": "立即探索来自世界各地的直播画面。",
+                "ar-SA": "استكشف مناظر مباشرة من جميع أنحاء العالم الآن.",
+                "de-DE": "Entdecke jetzt Live-Ansichten aus aller Welt.",
+                "id-ID": "Jelajahi pemandangan langsung dari seluruh dunia sekarang.",
+                "th-TH": "สำรวจภาพสดจากทั่วโลกได้ตอนนี้เลย",
+                "hi-IN": "अभी दुनिया भर के लाइव दृश्य देखें।"
+            }
+        },
+        {
+            "id": 2,
+            "hours": 8,
+            "minutes": 0,
+            "daysOfWeek": false,
+            "image": false,
+            "button": {
+                "text": {
+                    "vi-VN": "Xem ngay",
+                    "en-US": "Watch Now",
+                    "pt-PT": "Assista agora",
+                    "es-ES": "Ver ahora",
+                    "fr-FR": "Regarder",
+                    "ko-KR": "지금 보기",
+                    "ja-JP": "今すぐ見る",
+                    "zh-CN": "立即观看",
+                    "ar-SA": "شاهد الآن",
+                    "de-DE": "Ansehen",
+                    "id-ID": "Tonton",
+                    "th-TH": "ดูตอนนี้",
+                    "hi-IN": "अभी देखें"
+                }
+            },
+            "title": {
+                "vi-VN": "Khung cảnh mới mỗi ngày! 🌅",
+                "en-US": "New Views Every Day! 🌅",
+                "pt-PT": "Novas vistas todos os dias! 🌅",
+                "es-ES": "¡Nuevas vistas cada día! 🌅",
+                "fr-FR": "De nouvelles vues chaque jour ! 🌅",
+                "ko-KR": "매일 새로운 풍경! 🌅",
+                "ja-JP": "毎日新しい景色！🌅",
+                "zh-CN": "每天都有新景色！🌅",
+                "ar-SA": "مناظر جديدة كل يوم! 🌅",
+                "de-DE": "Jeden Tag neue Ansichten! 🌅",
+                "id-ID": "Pemandangan baru setiap hari! 🌅",
+                "th-TH": "วิวใหม่ทุกวัน! 🌅",
+                "hi-IN": "हर दिन नए दृश्य! 🌅"
+            },
+            "titleSub": {
+                "vi-VN": "Xem các camera trực tiếp ngoạn mục từ bãi biển, thành phố và không gian.",
+                "en-US": "Watch breathtaking live cams from beaches, cities & space.",
+                "pt-PT": "Assista a câmeras ao vivo deslumbrantes de praias, cidades e do espaço.",
+                "es-ES": "Mira cámaras en vivo impresionantes de playas, ciudades y el espacio.",
+                "fr-FR": "Regardez des caméras en direct à couper le souffle depuis les plages, les villes et l'espace.",
+                "ko-KR": "해변, 도시, 우주에서 놀라운 실시간 영상을 시청하세요.",
+                "ja-JP": "ビーチ、都市、宇宙からの息をのむライブカメラを見よう。",
+                "zh-CN": "观看来自海滩、城市和太空的震撼直播画面。",
+                "ar-SA": "شاهد كاميرات مباشرة مذهلة من الشواطئ والمدن والفضاء.",
+                "de-DE": "Sieh dir atemberaubende Live-Kameras von Stränden, Städten und dem Weltraum an.",
+                "id-ID": "Tonton kamera langsung menakjubkan dari pantai, kota, dan luar angkasa.",
+                "th-TH": "ดูภาพสดสุดตระการตาจากชายหาด เมือง และอวกาศ",
+                "hi-IN": "समुद्र तटों, शहरों और अंतरिक्ष से शानदार लाइव कैमरे देखें।"
+            }
+        },
+        {
+            "id": 3,
+            "hours": 20,
+            "minutes": 0,
+            "daysOfWeek": false,
+            "image": false,
+            "button": {
+                "text": {
+                    "vi-VN": "Xem ngay",
+                    "en-US": "View Now",
+                    "pt-PT": "Ver agora",
+                    "es-ES": "Ver ahora",
+                    "fr-FR": "Voir",
+                    "ko-KR": "지금 보기",
+                    "ja-JP": "今すぐ見る",
+                    "zh-CN": "立即查看",
+                    "ar-SA": "اعرض الآن",
+                    "de-DE": "Jetzt ansehen",
+                    "id-ID": "Lihat sekarang",
+                    "th-TH": "ดูตอนนี้",
+                    "hi-IN": "अभी देखें"
+                }
+            },
+            "title": {
+                "vi-VN": "Thư giãn cùng khung cảnh Trái Đất 🌙",
+                "en-US": "Relax with Earth Views 🌙",
+                "pt-PT": "Relaxe com vistas da Terra 🌙",
+                "es-ES": "Relájate con vistas de la Tierra 🌙",
+                "fr-FR": "Détendez-vous avec des vues de la Terre 🌙",
+                "ko-KR": "지구 풍경으로 휴식하세요 🌙",
+                "ja-JP": "地球の風景でリラックス 🌙",
+                "zh-CN": "伴随地球美景放松 🌙",
+                "ar-SA": "استرخِ مع مناظر الأرض 🌙",
+                "de-DE": "Entspanne dich mit Erdansichten 🌙",
+                "id-ID": "Bersantai dengan pemandangan Bumi 🌙",
+                "th-TH": "ผ่อนคลายไปกับวิวโลก 🌙",
+                "hi-IN": "पृथ्वी के नज़ारों के साथ आराम करें 🌙"
+            },
+            "titleSub": {
+                "vi-VN": "Kết thúc một ngày bằng cách ngắm nhìn ánh đèn thành phố rực rỡ ban đêm.",
+                "en-US": "End your day by watching stunning night city lights.",
+                "pt-PT": "Termine o seu dia assistindo às deslumbrantes luzes noturnas da cidade.",
+                "es-ES": "Termina tu día viendo las impresionantes luces nocturnas de la ciudad.",
+                "fr-FR": "Terminez votre journée en regardant les magnifiques lumières de la ville la nuit.",
+                "ko-KR": "아름다운 도시의 야경을 보며 하루를 마무리하세요.",
+                "ja-JP": "美しい夜の街の灯りを見ながら一日を締めくくろう。",
+                "zh-CN": "以欣赏城市璀璨的夜景来结束你的一天。",
+                "ar-SA": "اختم يومك بمشاهدة أضواء المدينة الليلية المذهلة.",
+                "de-DE": "Beende deinen Tag, indem du die atemberaubenden Lichter der Stadt bei Nacht ansiehst.",
+                "id-ID": "Akhiri harimu dengan menyaksikan lampu kota malam yang menakjubkan.",
+                "th-TH": "ปิดท้ายวันของคุณด้วยการชมแสงไฟยามค่ำของเมืองอันงดงาม",
+                "hi-IN": "अपने दिन का अंत खूबसूरत रात के शहर की रोशनी देखकर करें।"
+            }
+        },
+        {
+            "id": 4,
+            "hours": 18,
+            "minutes": 0,
+            "daysOfWeek": false,
+            "image": false,
+            "button": {
+                "text": {
+                    "vi-VN": "Nâng cấp",
+                    "en-US": "Upgrade",
+                    "pt-PT": "Atualizar",
+                    "es-ES": "Actualizar",
+                    "fr-FR": "Mettre à niveau",
+                    "ko-KR": "업그레이드",
+                    "ja-JP": "アップグレード",
+                    "zh-CN": "升级",
+                    "ar-SA": "ترقية",
+                    "de-DE": "Upgrade",
+                    "id-ID": "Tingkatkan",
+                    "th-TH": "อัปเกรด",
+                    "hi-IN": "अपग्रेड"
+                }
+            },
+            "title": {
+                "vi-VN": "Mở khóa Earth Pro 🚀",
+                "en-US": "Unlock Earth Pro 🚀",
+                "pt-PT": "Desbloqueie o Earth Pro 🚀",
+                "es-ES": "Desbloquea Earth Pro 🚀",
+                "fr-FR": "Débloquez Earth Pro 🚀",
+                "ko-KR": "Earth Pro 잠금 해제 🚀",
+                "ja-JP": "Earth Pro をアンロック 🚀",
+                "zh-CN": "解锁 Earth Pro 🚀",
+                "ar-SA": "افتح Earth Pro 🚀",
+                "de-DE": "Earth Pro freischalten 🚀",
+                "id-ID": "Buka kunci Earth Pro 🚀",
+                "th-TH": "ปลดล็อก Earth Pro 🚀",
+                "hi-IN": "Earth Pro अनलॉक करें 🚀"
+            },
+            "titleSub": {
+                "vi-VN": "Nhận camera 4K, trải nghiệm không quảng cáo và cập nhật vệ tinh theo thời gian thực.",
+                "en-US": "Get 4K cams, ad-free experience, and real-time satellite updates.",
+                "pt-PT": "Obtenha câmeras 4K, experiência sem anúncios e atualizações de satélite em tempo real.",
+                "es-ES": "Obtén cámaras 4K, experiencia sin anuncios y actualizaciones satelitales en tiempo real.",
+                "fr-FR": "Profitez de caméras 4K, d’une expérience sans publicité et de mises à jour satellites en temps réel.",
+                "ko-KR": "4K 카메라, 광고 없는 경험, 실시간 위성 업데이트를 이용하세요.",
+                "ja-JP": "4Kカメラ、広告なしの体験、リアルタイム衛星アップデートを入手しよう。",
+                "zh-CN": "获取4K摄像头、无广告体验和实时卫星更新。",
+                "ar-SA": "احصل على كاميرات 4K وتجربة خالية من الإعلانات وتحديثات الأقمار الصناعية في الوقت الفعلي.",
+                "de-DE": "Erhalte 4K-Kameras, ein werbefreies Erlebnis und Echtzeit-Satelliten-Updates.",
+                "id-ID": "Dapatkan kamera 4K, pengalaman tanpa iklan, dan pembaruan satelit waktu nyata.",
+                "th-TH": "รับกล้อง 4K ประสบการณ์ไร้โฆษณา และอัปเดตดาวเทียมแบบเรียลไทม์",
+                "hi-IN": "4K कैमरे, बिना विज्ञापन का अनुभव और रियल-टाइम सैटेलाइट अपडेट पाएं।"
+            }
+        },
+        {
+            "id": 5,
+            "timeGapHours": 72,
+            "image": false,
+            "button": {
+                "text": {
+                    "vi-VN": "Xem ngay",
+                    "en-US": "Watch Now",
+                    "pt-PT": "Assista agora",
+                    "es-ES": "Ver ahora",
+                    "fr-FR": "Regarder",
+                    "ko-KR": "지금 보기",
+                    "ja-JP": "今すぐ見る",
+                    "zh-CN": "立即观看",
+                    "ar-SA": "شاهد الآن",
+                    "de-DE": "Ansehen",
+                    "id-ID": "Tonton",
+                    "th-TH": "ดูตอนนี้",
+                    "hi-IN": "अभी देखें"
+                }
+            },
+            "title": {
+                "vi-VN": "Trực tiếp từ Paris 🇫🇷",
+                "en-US": "Live from Paris 🇫🇷",
+                "pt-PT": "Ao vivo de Paris 🇫🇷",
+                "es-ES": "En vivo desde París 🇫🇷",
+                "fr-FR": "En direct de Paris 🇫🇷",
+                "ko-KR": "파리 생중계 🇫🇷",
+                "ja-JP": "パリから生中継 🇫🇷",
+                "zh-CN": "来自巴黎的直播 🇫🇷",
+                "ar-SA": "مباشر من باريس 🇫🇷",
+                "de-DE": "Live aus Paris 🇫🇷",
+                "id-ID": "Langsung dari Paris 🇫🇷",
+                "th-TH": "ถ่ายทอดสดจากปารีส 🇫🇷",
+                "hi-IN": "पेरिस से लाइव 🇫🇷"
+            },
+            "titleSub": {
+                "vi-VN": "Xem buổi phát trực tiếp đặc biệt hôm nay từ Tháp Eiffel!",
+                "en-US": "Watch today’s special live stream from Eiffel Tower!",
+                "pt-PT": "Assista à transmissão ao vivo especial de hoje da Torre Eiffel!",
+                "es-ES": "¡Mira la transmisión en vivo especial de hoy desde la Torre Eiffel!",
+                "fr-FR": "Regardez la diffusion en direct spéciale d'aujourd'hui depuis la tour Eiffel !",
+                "ko-KR": "오늘 에펠탑에서 진행되는 특별한 생중계를 시청하세요!",
+                "ja-JP": "今日のエッフェル塔からの特別ライブ配信を見よう！",
+                "zh-CN": "观看今天来自埃菲尔铁塔的特别直播！",
+                "ar-SA": "شاهد البث المباشر الخاص اليوم من برج إيفل!",
+                "de-DE": "Sieh dir den heutigen speziellen Livestream vom Eiffelturm an!",
+                "id-ID": "Tonton siaran langsung spesial hari ini dari Menara Eiffel!",
+                "th-TH": "ชมสตรีมสดพิเศษวันนี้จากหอไอเฟล!",
+                "hi-IN": "आज एफिल टॉवर से विशेष लाइव स्ट्रीम देखें!"
+            }
+        },
+        {
+            "id": 6,
+            "hours": 10,
+            "minutes": 0,
+            "daysOfWeek": [
+                7
+            ],
+            "image": false,
+            "button": {
+                "text": {
+                    "vi-VN": "Khám phá",
+                    "en-US": "Explore",
+                    "pt-PT": "Explorar",
+                    "es-ES": "Explorar",
+                    "fr-FR": "Explorer",
+                    "ko-KR": "탐색",
+                    "ja-JP": "探索",
+                    "zh-CN": "探索",
+                    "ar-SA": "استكشف",
+                    "de-DE": "Erkunden",
+                    "id-ID": "Jelajahi",
+                    "th-TH": "สำรวจ",
+                    "hi-IN": "खोजें"
+                }
+            },
+            "title": {
+                "vi-VN": "🌴 Điểm đến hàng tuần",
+                "en-US": "🌴 Weekly Destination",
+                "pt-PT": "🌴 Destino semanal",
+                "es-ES": "🌴 Destino semanal",
+                "fr-FR": "🌴 Destination de la semaine",
+                "ko-KR": "🌴 주간 여행지",
+                "ja-JP": "🌴 今週の目的地",
+                "zh-CN": "🌴 每周目的地",
+                "ar-SA": "🌴 الوجهة الأسبوعية",
+                "de-DE": "🌴 Wöchentliches Reiseziel",
+                "id-ID": "🌴 Destinasi mingguan",
+                "th-TH": "🌴 จุดหมายประจำสัปดาห์",
+                "hi-IN": "🌴 साप्ताहिक गंतव्य"
+            },
+            "titleSub": {
+                "vi-VN": "Khám phá camera trực tiếp hàng đầu tuần này từ Maldives!",
+                "en-US": "Visit this week’s top live camera from the Maldives!",
+                "pt-PT": "Visite a melhor câmera ao vivo desta semana das Maldivas!",
+                "es-ES": "¡Visita la mejor cámara en vivo de esta semana desde las Maldivas!",
+                "fr-FR": "Visitez la meilleure caméra en direct de la semaine depuis les Maldives !",
+                "ko-KR": "이번 주 몰디브의 최고 인기 라이브 카메라를 방문하세요!",
+                "ja-JP": "今週のモルディブからのトップライブカメラを見よう！",
+                "zh-CN": "观看本周来自马尔代夫的热门直播摄像头！",
+                "ar-SA": "زر أفضل كاميرا مباشرة لهذا الأسبوع من جزر المالديف!",
+                "de-DE": "Besuche die Top-Live-Kamera dieser Woche von den Malediven!",
+                "id-ID": "Kunjungi kamera live terbaik minggu ini dari Maladewa!",
+                "th-TH": "เยี่ยมชมกล้องถ่ายทอดสดยอดนิยมประจำสัปดาห์นี้จากมัลดีฟส์!",
+                "hi-IN": "इस हफ्ते की मालदीव से शीर्ष लाइव कैमरा देखें!"
+            }
+        }
+    ],
+    "event_type": [
+        {
+            "id": 11,
+            "image": false,
+            "button": {
+                "text": {
+                    "en-US": "Continue",
+                    "fr-FR": "Continuer",
+                    "hi-IN": "जारी रखें",
+                    "ar-SA": "متابعة",
+                    "de-DE": "Weiter",
+                    "es-ES": "Continuar",
+                    "pt-PT": "Continuar",
+                    "id-ID": "Lanjutkan",
+                    "it-IT": "Continua",
+                    "ja-JP": "続行",
+                    "ko-KR": "계속하기",
+                    "km-KH": "បន្ត",
+                    "ru-RU": "Продолжить",
+                    "th-TH": "ดำเนินการต่อ",
+                    "vi-VN": "Tiếp tục",
+                    "zh-CN": "继续"
+                }
+            },
+            "title": {
+                "vi-VN": "Tiếp tục khám phá Trái Đất 🌍",
+                "en-US": "Keep Exploring Earth 🌍",
+                "pt-PT": "Continue explorando a Terra 🌍",
+                "es-ES": "Sigue explorando la Tierra 🌍",
+                "fr-FR": "Continuez à explorer la Terre 🌍",
+                "ko-KR": "지구 탐험을 계속하세요 🌍",
+                "ja-JP": "地球の探検を続けよう 🌍",
+                "zh-CN": "继续探索地球 🌍",
+                "ar-SA": "استمر في استكشاف الأرض 🌍",
+                "de-DE": "Erkunde weiter die Erde 🌍",
+                "id-ID": "Terus jelajahi Bumi 🌍",
+                "th-TH": "สำรวจโลกต่อไป 🌍",
+                "hi-IN": "पृथ्वी का अन्वेषण जारी रखें 🌍"
+            },
+            "titleSub": {
+                "vi-VN": "Đừng dừng lại - xem thêm các camera trực tiếp từ những quốc gia mới.",
+                "en-US": "Don’t stop now - see more live cams from new countries.",
+                "pt-PT": "Não pare agora - veja mais câmeras ao vivo de novos países.",
+                "es-ES": "No te detengas ahora: mira más cámaras en vivo de nuevos países.",
+                "fr-FR": "Ne t’arrête pas maintenant – découvre plus de caméras en direct de nouveaux pays.",
+                "ko-KR": "지금 멈추지 마세요 - 새로운 나라의 더 많은 라이브 카메라를 보세요.",
+                "ja-JP": "まだ止まらないで、新しい国のライブカメラをもっと見よう。",
+                "zh-CN": "别停下来——看看来自更多新国家的直播摄像头。",
+                "ar-SA": "لا تتوقف الآن - شاهد المزيد من الكاميرات المباشرة من دول جديدة.",
+                "de-DE": "Hör jetzt nicht auf – sieh dir mehr Live-Kameras aus neuen Ländern an.",
+                "id-ID": "Jangan berhenti sekarang – lihat lebih banyak kamera langsung dari negara baru.",
+                "th-TH": "อย่าหยุดตอนนี้ - ดูกล้องถ่ายทอดสดเพิ่มเติมจากประเทศใหม่ๆ",
+                "hi-IN": "अभी मत रुकिए - नए देशों के और लाइव कैमरे देखें।"
+            }
+        },
+        {
+            "id": 6,
+            "image": false,
+            "button": {
+                "text": {
+                    "vi-VN": "Khám phá",
+                    "en-US": "Explore",
+                    "pt-PT": "Explorar",
+                    "es-ES": "Explorar",
+                    "fr-FR": "Explorer",
+                    "ko-KR": "탐색",
+                    "ja-JP": "探索",
+                    "zh-CN": "探索",
+                    "ar-SA": "استكشف",
+                    "de-DE": "Erkunden",
+                    "id-ID": "Jelajahi",
+                    "th-TH": "สำรวจ",
+                    "hi-IN": "खोजें"
+                }
+            },
+            "title": {
+                "vi-VN": "Khám phá xung quanh bạn 🗺️",
+                "en-US": "See Around You 🗺️",
+                "pt-PT": "Veja ao seu redor 🗺️",
+                "es-ES": "Mira a tu alrededor 🗺️",
+                "fr-FR": "Regardez autour de vous 🗺️",
+                "ko-KR": "주변을 둘러보세요 🗺️",
+                "ja-JP": "あなたの周りを見てみよう 🗺️",
+                "zh-CN": "看看你周围 🗺️",
+                "ar-SA": "انظر من حولك 🗺️",
+                "de-DE": "Sieh dich um 🗺️",
+                "id-ID": "Lihat di sekitarmu 🗺️",
+                "th-TH": "ดูรอบๆ ตัวคุณ 🗺️",
+                "hi-IN": "अपने आसपास देखें 🗺️"
+            },
+            "titleSub": {
+                "vi-VN": "Xem các camera trực tiếp và hình ảnh vệ tinh gần bạn.",
+                "en-US": "Watch nearby live cameras and satellite views.",
+                "pt-PT": "Veja câmeras ao vivo e imagens de satélite próximas.",
+                "es-ES": "Mira cámaras en vivo y vistas satelitales cercanas.",
+                "fr-FR": "Regardez les caméras en direct et les vues satellite à proximité.",
+                "ko-KR": "근처의 라이브 카메라와 위성 영상을 시청하세요.",
+                "ja-JP": "近くのライブカメラや衛星映像を見よう。",
+                "zh-CN": "观看您附近的直播摄像头和卫星视图。",
+                "ar-SA": "شاهد الكاميرات الحية والمناظر الفضائية القريبة منك.",
+                "de-DE": "Sieh dir Live-Kameras und Satellitenansichten in deiner Nähe an.",
+                "id-ID": "Tonton kamera langsung dan tampilan satelit di dekat Anda.",
+                "th-TH": "ดูภาพกล้องสดและภาพดาวเทียมใกล้คุณ",
+                "hi-IN": "अपने आसपास के लाइव कैमरे और उपग्रह दृश्य देखें।"
+            }
+        },
+        {
+            "id": 7,
+            "image": false,
+            "button": {
+                "text": {
+                    "vi-VN": "Khám phá",
+                    "en-US": "Explore",
+                    "pt-PT": "Explorar",
+                    "es-ES": "Explorar",
+                    "fr-FR": "Explorer",
+                    "ko-KR": "탐색",
+                    "ja-JP": "探索",
+                    "zh-CN": "探索",
+                    "ar-SA": "استكشف",
+                    "de-DE": "Erkunden",
+                    "id-ID": "Jelajahi",
+                    "th-TH": "สำรวจ",
+                    "hi-IN": "खोजें"
+                }
+            },
+            "title": {
+                "vi-VN": "Thế giới đã thay đổi 🌍",
+                "en-US": "The World Has Changed 🌍",
+                "pt-PT": "O mundo mudou 🌍",
+                "es-ES": "El mundo ha cambiado 🌍",
+                "fr-FR": "Le monde a changé 🌍",
+                "ko-KR": "세상이 변했다 🌍",
+                "ja-JP": "世界は変わった 🌍",
+                "zh-CN": "世界已经改变 🌍",
+                "ar-SA": "العالم قد تغير 🌍",
+                "de-DE": "Die Welt hat sich verändert 🌍",
+                "id-ID": "Dunia telah berubah 🌍",
+                "th-TH": "โลกได้เปลี่ยนไป 🌍",
+                "hi-IN": "दुनिया बदल गई है 🌍"
+            },
+            "titleSub": {
+                "vi-VN": "Các buổi phát trực tiếp và cập nhật vệ tinh mới đang chờ bạn.",
+                "en-US": "New live streams and satellite updates are waiting for you.",
+                "pt-PT": "Novas transmissões ao vivo e atualizações de satélite estão esperando por você.",
+                "es-ES": "Nuevas transmisiones en vivo y actualizaciones de satélite te están esperando.",
+                "fr-FR": "De nouveaux flux en direct et des mises à jour satellites vous attendent.",
+                "ko-KR": "새로운 라이브 스트림과 위성 업데이트가 기다리고 있습니다.",
+                "ja-JP": "新しいライブ配信と衛星アップデートがあなたを待っています。",
+                "zh-CN": "新的直播和卫星更新正在等你。",
+                "ar-SA": "تنتظرك البثوث المباشرة الجديدة وتحديثات الأقمار الصناعية.",
+                "de-DE": "Neue Live-Streams und Satelliten-Updates warten auf dich.",
+                "id-ID": "Siarkan langsung baru dan pembaruan satelit menunggu Anda.",
+                "th-TH": "สตรีมสดและอัปเดตดาวเทียมใหม่กำลังรอคุณ",
+                "hi-IN": "नए लाइव स्ट्रीम और सैटेलाइट अपडेट आपका इंतजार कर रहे हैं।"
+            }
+        },
+        {
+            "id": 8,
+            "image": false,
+            "button": {
+                "text": {
+                    "vi-VN": "Xem ngay",
+                    "en-US": "Watch Now",
+                    "pt-PT": "Assista agora",
+                    "es-ES": "Ver ahora",
+                    "fr-FR": "Regarder",
+                    "ko-KR": "지금 보기",
+                    "ja-JP": "今すぐ見る",
+                    "zh-CN": "立即观看",
+                    "ar-SA": "شاهد الآن",
+                    "de-DE": "Ansehen",
+                    "id-ID": "Tonton",
+                    "th-TH": "ดูตอนนี้",
+                    "hi-IN": "अभी देखें"
+                }
+            },
+            "title": {
+                "vi-VN": "🌋 Nóng: Núi lửa phun trào trực tiếp!",
+                "en-US": "🌋 Breaking: Volcano Eruption Live!",
+                "pt-PT": "🌋 Última hora: Erupção vulcânica ao vivo!",
+                "es-ES": "🌋 Última hora: ¡Erupción volcánica en vivo!",
+                "fr-FR": "🌋 Flash info : Éruption volcanique en direct !",
+                "ko-KR": "🌋 속보: 화산 분화 라이브!",
+                "ja-JP": "🌋 緊急: 火山噴火ライブ！",
+                "zh-CN": "🌋 最新：火山喷发直播！",
+                "ar-SA": "🌋 عاجل: ثوران البركان مباشر!",
+                "de-DE": "🌋 Eilmeldung: Vulkaneruption live!",
+                "id-ID": "🌋 Terkini: Letusan Gunung Berapi Langsung!",
+                "th-TH": "🌋 ด่วน: การปะทุของภูเขาไฟถ่ายทอดสด!",
+                "hi-IN": "🌋 ब्रेकिंग: ज्वालामुखी विस्फोट लाइव!"
+            },
+            "titleSub": {
+                "vi-VN": "Xem trực tiếp ngay bây giờ và cập nhật các sự kiện thực tế.",
+                "en-US": "Watch the live feed now and stay updated with real events.",
+                "pt-PT": "Assista à transmissão ao vivo agora e mantenha-se atualizado com eventos reais.",
+                "es-ES": "Mira la transmisión en vivo ahora y mantente al día con eventos reales.",
+                "fr-FR": "Regardez le flux en direct maintenant et restez informé des événements réels.",
+                "ko-KR": "지금 라이브 피드를 시청하고 실제 이벤트를 업데이트하세요.",
+                "ja-JP": "今すぐライブ配信を見て、実際のイベントをチェックしよう。",
+                "zh-CN": "立即观看直播，并随时了解真实事件。",
+                "ar-SA": "شاهد البث المباشر الآن وابقَ على اطلاع بالأحداث الحقيقية.",
+                "de-DE": "Sieh dir jetzt den Live-Stream an und bleib über aktuelle Ereignisse informiert.",
+                "id-ID": "Tonton siaran langsung sekarang dan tetap terupdate dengan kejadian nyata.",
+                "th-TH": "ดูสตรีมสดตอนนี้และติดตามเหตุการณ์จริง",
+                "hi-IN": "अब लाइव फ़ीड देखें और वास्तविक घटनाओं से अपडेट रहें।"
+            }
+        },
+        {
+            "id": 9,
+            "image": false,
+            "button": {
+                "text": {
+                    "vi-VN": "Thử ngay",
+                    "en-US": "Try Now",
+                    "pt-PT": "Experimente agora",
+                    "es-ES": "Prueba ahora",
+                    "fr-FR": "Essayez maintenant",
+                    "ko-KR": "지금 시도",
+                    "ja-JP": "今すぐ試す",
+                    "zh-CN": "立即尝试",
+                    "ar-SA": "جرب الآن",
+                    "de-DE": "Jetzt ausprobieren",
+                    "id-ID": "Coba sekarang",
+                    "th-TH": "ลองตอนนี้",
+                    "hi-IN": "अभी आज़माएँ"
+                }
+            },
+            "title": {
+                "vi-VN": "Ngắm Trái Đất từ không gian 🛰️",
+                "en-US": "See Earth from Space 🛰️",
+                "pt-PT": "Veja a Terra do espaço 🛰️",
+                "es-ES": "Ve la Tierra desde el espacio 🛰️",
+                "fr-FR": "Voir la Terre depuis l’espace 🛰️",
+                "ko-KR": "우주에서 지구 보기 🛰️",
+                "ja-JP": "宇宙から地球を見る 🛰️",
+                "zh-CN": "从太空看地球 🛰️",
+                "ar-SA": "شاهد الأرض من الفضاء 🛰️",
+                "de-DE": "Die Erde aus dem Weltraum sehen 🛰️",
+                "id-ID": "Lihat Bumi dari Luar Angkasa 🛰️",
+                "th-TH": "ชมโลกจากอวกาศ 🛰️",
+                "hi-IN": "अंतरिक्ष से पृथ्वी देखें 🛰️"
+            },
+            "titleSub": {
+                "vi-VN": "Thử chế độ vệ tinh trực tiếp và phóng to bất kỳ nơi nào trên Trái Đất.",
+                "en-US": "Try live satellite mode and zoom in on any place on Earth.",
+                "pt-PT": "Experimente o modo satélite ao vivo e aproxime-se de qualquer lugar da Terra.",
+                "es-ES": "Prueba el modo satélite en vivo y acércate a cualquier lugar de la Tierra.",
+                "fr-FR": "Essayez le mode satellite en direct et zoomez sur n’importe quel endroit sur Terre.",
+                "ko-KR": "라이브 위성 모드를 사용하고 지구 어디든 확대해 보세요.",
+                "ja-JP": "ライブ衛星モードを試して、地球上のどこでもズームしよう。",
+                "zh-CN": "尝试实时卫星模式，并放大地球上的任意地点。",
+                "ar-SA": "جرب وضع القمر الصناعي المباشر وقم بالتكبير على أي مكان على الأرض.",
+                "de-DE": "Probieren Sie den Live-Satellitenmodus aus und zoomen Sie auf jeden Ort der Erde.",
+                "id-ID": "Coba mode satelit langsung dan perbesar di tempat mana pun di Bumi.",
+                "th-TH": "ลองโหมดดาวเทียมสดและซูมไปที่ใดก็ได้บนโลก",
+                "hi-IN": "लाइव सैटेलाइट मोड आज़माएँ और पृथ्वी पर किसी भी जगह ज़ूम करें।"
+            }
+        },
+        {
+            "id": 10,
+            "image": false,
+            "button": {
+                "text": {
+                    "vi-VN": "Dùng thử",
+                    "en-US": "Trial",
+                    "pt-PT": "Teste",
+                    "es-ES": "Prueba",
+                    "fr-FR": "Essai",
+                    "ko-KR": "체험",
+                    "ja-JP": "トライアル",
+                    "zh-CN": "试用",
+                    "ar-SA": "تجربة",
+                    "de-DE": "Test",
+                    "id-ID": "Percobaan",
+                    "th-TH": "ทดลองใช้ฟรี",
+                    "hi-IN": "परीक्षण"
+                }
+            },
+            "title": {
+                "vi-VN": "Thử Earth Pro miễn phí 🌟",
+                "en-US": "Try Earth Pro Free 🌟",
+                "pt-PT": "Experimente o Earth Pro grátis 🌟",
+                "es-ES": "Prueba Earth Pro gratis 🌟",
+                "fr-FR": "Essayez Earth Pro gratuitement 🌟",
+                "ko-KR": "Earth Pro 무료 체험 🌟",
+                "ja-JP": "Earth Pro を無料で試す 🌟",
+                "zh-CN": "免费试用 Earth Pro 🌟",
+                "ar-SA": "جرب Earth Pro مجانًا 🌟",
+                "de-DE": "Earth Pro kostenlos testen 🌟",
+                "id-ID": "Coba Earth Pro gratis 🌟",
+                "th-TH": "ลองใช้ Earth Pro ฟรี 🌟",
+                "hi-IN": "Earth Pro मुफ्त में आज़माएँ 🌟"
+            },
+            "titleSub": {
+                "vi-VN": "Thưởng thức camera trực tiếp 4K, không quảng cáo & khám phá không giới hạn.",
+                "en-US": "Enjoy 4K live cams, no ads & unlimited exploration.",
+                "pt-PT": "Aproveite câmeras ao vivo 4K, sem anúncios e exploração ilimitada.",
+                "es-ES": "Disfruta de cámaras en vivo 4K, sin anuncios y exploración ilimitada.",
+                "fr-FR": "Profitez des caméras en direct 4K, sans publicité et d’une exploration illimitée.",
+                "ko-KR": "4K 라이브 카메라, 광고 없음, 무제한 탐험을 즐기세요.",
+                "ja-JP": "4Kライブカメラ、広告なし、無制限の探索を楽しもう。",
+                "zh-CN": "享受4K直播，无广告&无限探索。",
+                "ar-SA": "استمتع بكاميرات 4K مباشرة، بدون إعلانات واستكشاف غير محدود.",
+                "de-DE": "Genieße 4K-Live-Kameras, keine Werbung & unbegrenztes Erkunden.",
+                "id-ID": "Nikmati kamera langsung 4K, tanpa iklan & eksplorasi tak terbatas.",
+                "th-TH": "เพลิดเพลินกับกล้องสด 4K ไม่มีโฆษณา & สำรวจไม่จำกัด",
+                "hi-IN": "4K लाइव कैमरे, बिना विज्ञापन और असीमित खोज का आनंद लें।"
+            }
+        }
+    ]
+}
