@@ -3,8 +3,8 @@
         {
             "id": 1,
             "welcome":true,
-            "hours": 10,
-            "minutes": 0,
+            "hours": 11,
+            "minutes": 8,
             "daysOfWeek": false,
             "image": false,
             "button": {
