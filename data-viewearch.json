@@ -4,7 +4,7 @@
             "id": 1,
             "welcome":true,
             "hours": 11,
-            "minutes": 8,
+            "minutes": 12,
             "daysOfWeek": false,
             "image": false,
             "button": {
