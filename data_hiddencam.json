@@ -1,0 +1,822 @@
+{
+  "fixed_type": [
+    {
+      "id": 1,
+      "image": null,
+      "hour": 9,
+      "minute": 0,
+      "daysOfWeek": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "button": {
+        "text": {
+          "en": "Start",
+          "ar": "ابدأ",
+          "bn": "শুরু",
+          "de": "Starten",
+          "es": "Comenzar",
+          "fr": "Commencer",
+          "hi": "शुरू",
+          "id": "Mulai",
+          "ja": "スタート",
+          "ko": "시작",
+          "pt": "Iniciar",
+          "vi": "Bắt đầu",
+          "zh": "开始"
+        }
+      },
+      "title": {
+        "en": "🔍 Daily Security Check",
+        "ar": "🔍 فحص الأمان اليومي",
+        "bn": "🔍 দৈনিক নিরাপত্তা পরীক্ষা",
+        "de": "🔍 Tägliche Sicherheitsprüfung",
+        "es": "🔍 Verificación de seguridad diaria",
+        "fr": "🔍 Vérification de sécurité quotidienne",
+        "hi": "🔍 दैनिक सुरक्षा जांच",
+        "id": "🔍 Pemeriksaan Keamanan Harian",
+        "ja": "🔍 デイリーセキュリティチェック",
+        "ko": "🔍 일일 보안 검사",
+        "pt": "🔍 Verificação de Segurança Diária",
+        "vi": "🔍 Kiểm tra bảo mật hàng ngày",
+        "zh": "🔍 每日安全检查"
+      },
+      "titleSub": {
+        "en": "Scan your room now to ensure your privacy is safe.",
+        "ar": "امسح غرفتك الآن للتأكد من سلامة خصوصيتك.",
+        "bn": "আপনার গোপনীয়তা নিরাপদ নিশ্চিত করতে এখন আপনার ঘর স্ক্যান করুন।",
+        "de": "Scannen Sie jetzt Ihr Zimmer, um sicherzustellen, dass Ihre Privatsphäre sicher ist.",
+        "es": "Escanea tu habitación ahora para asegurar que tu privacidad esté segura.",
+        "fr": "Scannez votre pièce maintenant pour assurer la sécurité de votre vie privée.",
+        "hi": "अपनी गोपनीयता को सुरक्षित रखने के लिए अभी अपनी कमरा स्कैन करें।",
+        "id": "Pindai ruangan Anda sekarang untuk memastikan privasi Anda aman.",
+        "ja": "今すぐ部屋をスキャンしてプライバシーが安全であることを確認してください。",
+        "ko": "지금 방을 스캔하여 개인 정보가 안전한지 확인하세요.",
+        "pt": "Escaneie seu quarto agora para garantir que sua privacidade esteja segura.",
+        "vi": "Quét phòng của bạn ngay bây giờ để đảm bảo quyền riêng tư của bạn an toàn.",
+        "zh": "立即扫描您的房间，确保您的隐私安全。"
+      },
+      "variants": {
+        "reward_user": {
+          "title": {
+            "en": "🎁 Welcome Back Gift",
+            "ar": "🎁 هدية العودة",
+            "bn": "🎁 স্বাগতম উপহার",
+            "de": "🎁 Willkommensgeschenk",
+            "es": "🎁 Regalo de bienvenida",
+            "fr": "🎁 Cadeau de bienvenue",
+            "hi": "🎁 वापसी उपहार",
+            "id": "🎁 Hadiah Sambutan",
+            "ja": "🎁 ウェルカムバックギフト",
+            "ko": "🎁 환영 선물",
+            "pt": "🎁 Presente de boas-vindas",
+            "vi": "🎁 Quà chào mừng trở lại",
+            "zh": "🎁 欢迎回来礼物"
+          },
+          "titleSub": {
+            "en": "Get a free advanced WiFi scan today!",
+            "ar": "احصل على فحص WiFi متقدم مجاني اليوم!",
+            "bn": "আজ একটি বিনামূল্যে উন্নত ওয়াইফাই স্ক্যান পান!",
+            "de": "Holen Sie sich heute einen kostenlosen erweiterten WLAN-Scan!",
+            "es": "¡Obtén un escaneo WiFi avanzado gratis hoy!",
+            "fr": "Obtenez un scan WiFi avancé gratuit aujourd'hui!",
+            "hi": "आज एक मुफ्त उन्नत वाईफाई स्कैन प्राप्त करें!",
+            "id": "Dapatkan pemindaian WiFi lanjutan gratis hari ini!",
+            "ja": "今すぐ無料の高度なWiFiスキャンをゲット！",
+            "ko": "오늘 무료 고급 WiFi 스캔을 받으세요!",
+            "pt": "Obtenha uma verificação WiFi avançada gratuita hoje!",
+            "vi": "Nhận quét WiFi nâng cao miễn phí ngay hôm nay!",
+            "zh": "立即获得免费的高级WiFi扫描！"
+          },
+          "button": {
+            "text": {
+              "en": "Claim",
+              "ar": "استلام",
+              "bn": "দাবি করুন",
+              "de": "Beanspruchen",
+              "es": "Reclamar",
+              "fr": "Réclamer",
+              "hi": "दावा करें",
+              "id": "Klaim",
+              "ja": "受け取る",
+              "ko": "청구",
+              "pt": "Reivindicar",
+              "vi": "Nhận",
+              "zh": "领取"
+            }
+          }
+        },
+        "inactive_user": {
+          "title": {
+            "en": "⚠️ Security Check Missed",
+            "ar": "⚠️ فحص الأمان مفقود",
+            "bn": "⚠️ নিরাপত্তা পরীক্ষা মিস",
+            "de": "⚠️ Sicherheitsprüfung verpasst",
+            "es": "⚠️ Verificación de seguridad perdida",
+            "fr": "⚠️ Vérification de sécurité manquée",
+            "hi": "⚠️ सुरक्षा जांच छूट गई",
+            "id": "⚠️ Pemeriksaan Keamanan Terlewat",
+            "ja": "⚠️ セキュリティチェック見逃し",
+            "ko": "⚠️ 보안 검사 누락",
+            "pt": "⚠️ Verificação de Segurança Perdida",
+            "vi": "⚠️ Bỏ lỡ kiểm tra bảo mật",
+            "zh": "⚠️ 安全检查遗漏"
+          },
+          "titleSub": {
+            "en": "You haven't scanned in a while - ensure your privacy now!",
+            "ar": "لم تمسح منذ فترة - تأكد من خصوصيتك الآن!",
+            "bn": "আপনি অনেক দিন স্ক্যান করেননি - এখন আপনার গোপনীয়তা নিশ্চিত করুন!",
+            "de": "Sie haben eine Weile nicht gescannt - stellen Sie jetzt Ihre Privatsphäre sicher!",
+            "es": "No has escaneado en un tiempo - ¡asegura tu privacidad ahora!",
+            "fr": "Vous n'avez pas scanné depuis un moment - assurez votre vie privée maintenant!",
+            "hi": "आपने काफी समय से स्कैन नहीं किया है - अब अपनी गोपनीयता सुनिश्चित करें!",
+            "id": "Anda belum memindai untuk sementara - pastikan privasi Anda sekarang!",
+            "ja": "しばらくスキャンしていません - 今すぐプライバシーを確保してください！",
+            "ko": "한동안 스캔하지 않았습니다 - 지금 개인 정보를 보호하세요!",
+            "pt": "Você não escaneou há um tempo - garanta sua privacidade agora!",
+            "vi": "Bạn đã lâu không quét - hãy đảm bảo quyền riêng tư ngay bây giờ!",
+            "zh": "您已经有一段时间没有扫描了 - 现在确保您的隐私安全！"
+          },
+          "button": {
+            "text": {
+              "en": "Scan",
+              "ar": "مسح",
+              "bn": "স্ক্যান",
+              "de": "Scannen",
+              "es": "Escanear",
+              "fr": "Scanner",
+              "hi": "स्कैन",
+              "id": "Pindai",
+              "ja": "スキャン",
+              "ko": "스캔",
+              "pt": "Escanear",
+              "vi": "Quét",
+              "zh": "扫描"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2,
+      "image": null,
+      "hour": 18,
+      "minute": 0,
+      "daysOfWeek": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "button": {
+        "text": {
+          "en": "Scan",
+          "ar": "مسح",
+          "bn": "স্ক্যান",
+          "de": "Scannen",
+          "es": "Escanear",
+          "fr": "Scanner",
+          "hi": "स्कैन",
+          "id": "Pindai",
+          "ja": "スキャン",
+          "ko": "스캔",
+          "pt": "Escanear",
+          "vi": "Quét",
+          "zh": "扫描"
+        }
+      },
+      "title": {
+        "en": "📶 Who's on your WiFi?",
+        "ar": "📶 من على شبكة WiFi الخاصة بك؟",
+        "bn": "📶 আপনার ওয়াইফাইতে কে আছে?",
+        "de": "📶 Wer ist in Ihrem WLAN?",
+        "es": "¿Quién está en tu WiFi?",
+        "fr": "📶 Qui est sur votre WiFi ?",
+        "hi": "📶 आपकी वाईफाई पर कौन है?",
+        "id": "📶 Siapa di WiFi Anda?",
+        "ja": "📶 WiFiに誰がいますか？",
+        "ko": "📶 WiFi에 누가 있나요?",
+        "pt": "📶 Quem está no seu WiFi?",
+        "vi": "📶 Ai đang dùng WiFi của bạn?",
+        "zh": "📶 谁在用您的WiFi？"
+      },
+      "titleSub": {
+        "en": "Detect hidden devices connected to your network.",
+        "ar": "كشف الأجهزة المخفية المتصلة بشبكتك.",
+        "bn": "আপনার নেটওয়ার্কে সংযুক্ত লুকানো ডিভাইসগুলি সনাক্ত করুন।",
+        "de": "Erkennen Sie versteckte Geräte, die mit Ihrem Netzwerk verbunden sind.",
+        "es": "Detecta dispositivos ocultos conectados a tu red.",
+        "fr": "Détectez les appareils cachés connectés à votre réseau.",
+        "hi": "अपनी नेटवर्क से जुड़े छिपे हुए डिवाइसेज़ का पता लगाएं।",
+        "id": "Deteksi perangkat tersembunyi yang terhubung ke jaringan Anda.",
+        "ja": "ネットワークに接続された隠しデバイスを検出します。",
+        "ko": "네트워크에 연결된 숨겨진 장치를 감지합니다.",
+        "pt": "Detecte dispositivos ocultos conectados à sua rede.",
+        "vi": "Phát hiện các thiết bị ẩn kết nối với mạng của bạn.",
+        "zh": "检测连接到您网络的隐藏设备。"
+      }
+    },
+    {
+      "id": 3,
+      "image": null,
+      "hour": 9,
+      "minute": 0,
+      "daysOfWeek": [
+        1
+      ],
+      "button": {
+        "text": {
+          "en": "Start",
+          "ar": "ابدأ",
+          "bn": "শুরু",
+          "de": "Starten",
+          "es": "Comenzar",
+          "fr": "Commencer",
+          "hi": "शुरू",
+          "id": "Mulai",
+          "ja": "スタート",
+          "ko": "시작",
+          "pt": "Iniciar",
+          "vi": "Bắt đầu",
+          "zh": "开始"
+        }
+      },
+      "title": {
+        "en": "🧠 Stay Secure Weekly",
+        "ar": "🧠 ابق آمناً أسبوعياً",
+        "bn": "🧠 সাপ্তাহিকভাবে নিরাপদ থাকুন",
+        "de": "🧠 Bleiben Sie wöchentlich sicher",
+        "es": "🧠 Mantente seguro semanalmente",
+        "fr": "🧠 Restez sécurisé chaque semaine",
+        "hi": "🧠 साप्ताहिक रूप से सुरक्षित रहें",
+        "id": "🧠 Tetap Aman Mingguan",
+        "ja": "🧠 毎週安全を維持",
+        "ko": "🧠 매주 안전 유지",
+        "pt": "🧠 Mantenha-se seguro semanalmente",
+        "vi": "🧠 Giữ an toàn hàng tuần",
+        "zh": "🧠 每周保持安全"
+      },
+      "titleSub": {
+        "en": "Run a full scan to protect your privacy this week.",
+        "ar": "قم بفحص كامل لحماية خصوصيتك هذا الأسبوع.",
+        "bn": "এই সপ্তাহে আপনার গোপনীয়তা রক্ষা করতে একটি সম্পূর্ণ স্ক্যান চালান।",
+        "de": "Führen Sie diese Woche einen vollständigen Scan durch, um Ihre Privatsphäre zu schützen.",
+        "es": "Ejecuta un escaneo completo para proteger tu privacidad esta semana.",
+        "fr": "Effectuez un scan complet pour protéger votre vie privée cette semaine.",
+        "hi": "इस सप्ताह अपनी गोपनीयता की रक्षा के लिए पूर्ण स्कैन चलाएं।",
+        "id": "Jalankan pemindaian lengkap untuk melindungi privasi Anda minggu ini.",
+        "ja": "今週のプライバシーを保護するためにフルスキャンを実行してください。",
+        "ko": "이번 주 개인 정보를 보호하기 위해 전체 스캔을 실행하세요.",
+        "pt": "Execute uma verificação completa para proteger sua privacidade esta semana.",
+        "vi": "Chạy quét toàn diện để bảo vệ quyền riêng tư của bạn trong tuần này.",
+        "zh": "运行完整扫描以保护您本周的隐私。"
+      }
+    },
+    {
+      "id": 4,
+      "image": null,
+      "hour": 10,
+      "minute": 0,
+      "daysOfWeek": [
+        3
+      ],
+      "button": {
+        "text": {
+          "en": "Claim",
+          "ar": "استلام",
+          "bn": "দাবি করুন",
+          "de": "Beanspruchen",
+          "es": "Reclamar",
+          "fr": "Réclamer",
+          "hi": "दावा करें",
+          "id": "Klaim",
+          "ja": "受け取る",
+          "ko": "청구",
+          "pt": "Reivindicar",
+          "vi": "Nhận",
+          "zh": "领取"
+        }
+      },
+      "title": {
+        "en": "🔐 Privacy Tip of the Week",
+        "ar": "🔐 نصيحة الخصوصية لهذا الأسبوع",
+        "bn": "🔐 এই সপ্তাহের গোপনীয়তা টিপ",
+        "de": "🔐 Datenschutz-Tipp der Woche",
+        "es": "🔐 Consejo de privacidad de la semana",
+        "fr": "🔐 Conseil de confidentialité de la semaine",
+        "hi": "🔐 इस सप्ताह की गोपनीयता टिप",
+        "id": "🔐 Tip Privasi Minggu Ini",
+        "ja": "🔐 今週のプライバシーティップ",
+        "ko": "🔐 금주의 개인 정보 팁",
+        "pt": "🔐 Dica de privacidade da semana",
+        "vi": "🔐 Mẹo bảo mật tuần này",
+        "zh": "🔐 本周隐私提示"
+      },
+      "titleSub": {
+        "en": "Learn how to protect your phone from hidden trackers.",
+        "ar": "تعلم كيف تحمي هاتفك من المتتبعين المخفيين.",
+        "bn": "লুকানো ট্র্যাকার থেকে আপনার ফোনকে কীভাবে রক্ষা করবেন তা শিখুন।",
+        "de": "Erfahren Sie, wie Sie Ihr Telefon vor versteckten Trackern schützen.",
+        "es": "Aprende a proteger tu teléfono de rastreadores ocultos.",
+        "fr": "Apprenez à protéger votre téléphone contre les traqueurs cachés.",
+        "hi": "छिपे हुए ट्रैकर्स से अपने फोन को कैसे बचाएं, जानें।",
+        "id": "Pelajari cara melindungi ponsel Anda dari pelacak tersembunyi.",
+        "ja": "隠しトラッカーで電話を保護する方法を学びましょう。",
+        "ko": "숨겨진 추적기로부터 휴대폰을 보호하는 방법을 배우세요.",
+        "pt": "Aprenda a proteger seu telefone contra rastreadores ocultos.",
+        "vi": "Tìm hiểu cách bảo vệ điện thoại của bạn khỏi các trình theo dõi ẩn.",
+        "zh": "了解如何保护您的手机免受隐藏跟踪器。"
+      }
+    },
+    {
+      "id": 5,
+      "image": null,
+      "hour": 17,
+      "minute": 0,
+      "daysOfWeek": [
+        5
+      ],
+      "button": {
+        "text": {
+          "en": "Upgrade",
+          "ar": "ترقية",
+          "bn": "আপগ্রেড",
+          "de": "Upgrade",
+          "es": "Actualizar",
+          "fr": "Mettre à niveau",
+          "hi": "अपग्रेड",
+          "id": "Upgrade",
+          "ja": "アップグレード",
+          "ko": "업그레이드",
+          "pt": "Atualizar",
+          "vi": "Nâng cấp",
+          "zh": "升级"
+        }
+      },
+      "title": {
+        "en": "🚀 30% OFF Premium",
+        "ar": "🚀 30% خصم على البريميوم",
+        "bn": "🚀 প্রিমিয়ামে 30% ছাড়",
+        "de": "🚀 30% RABATT auf Premium",
+        "es": "🚀 30% DE DESCUENTO Premium",
+        "fr": "🚀 30% DE RÉDUCTION Premium",
+        "hi": "🚀 प्रीमियम पर 30% छूट",
+        "id": "🚀 30% OFF Premium",
+        "ja": "🚀 プレミアム30%オフ",
+        "ko": "🚀 프리미엄 30% 할인",
+        "pt": "🚀 30% DE DESCONTO Premium",
+        "vi": "🚀 Giảm 30% Premium",
+        "zh": "🚀 Premium 30% 折扣"
+      },
+      "titleSub": {
+        "en": "Get advanced detection & ad-free protection today!",
+        "ar": "احصل على كشف متقدم وحماية خالية من الإعلانات اليوم!",
+        "bn": "আজ উন্নত সনাক্তকরণ এবং বিজ্ঞাপন-মুক্ত সুরক্ষা পান!",
+        "de": "Holen Sie sich heute fortschrittliche Erkennung und werbefreien Schutz!",
+        "es": "¡Obtén detección avanzada y protección sin anuncios hoy!",
+        "fr": "Obtenez une détection avancée et une protection sans publicité aujourd'hui!",
+        "hi": "आज उन्नत डिटेक्शन और विज्ञापन-मुक्त सुरक्षा प्राप्त करें!",
+        "id": "Dapatkan deteksi canggih & perlindungan bebas iklan hari ini!",
+        "ja": "高度な検出と広告なしの保護を今すぐゲット！",
+        "ko": "오늘 고급 감지 및 광고 없는 보호를 받으세요!",
+        "pt": "Obtenha detecção avançada e proteção sem anúncios hoje!",
+        "vi": "Nhận phát hiện nâng cao và bảo vệ không quảng cáo ngay hôm nay!",
+        "zh": "立即获得高级检测和无广告保护！"
+      }
+    },
+    {
+      "id": 6,
+      "image": null,
+      "hour": 10,
+      "minute": 0,
+      "daysOfWeek": [
+        6
+      ],
+      "button": {
+        "text": {
+          "en": "Scan",
+          "ar": "مسح",
+          "bn": "স্ক্যান",
+          "de": "Scannen",
+          "es": "Escanear",
+          "fr": "Scanner",
+          "hi": "स्कैन",
+          "id": "Pindai",
+          "ja": "スキャン",
+          "ko": "스캔",
+          "pt": "Escanear",
+          "vi": "Quét",
+          "zh": "扫描"
+        }
+      },
+      "title": {
+        "en": "🕵️‍♂️ Is your place still safe?",
+        "ar": "🕵️‍♂️ هل مكانك لا يزال آمناً؟",
+        "bn": "🕵️‍♂️ আপনার জায়গা এখনও নিরাপদ কি?",
+        "de": "🕵️‍♂️ Ist Ihr Ort noch sicher?",
+        "es": "¿Tu lugar sigue siendo seguro?",
+        "fr": "🕵️‍♂️ Votre lieu est-il encore sûr ?",
+        "hi": "🕵️‍♂️ क्या आपका स्थान अभी भी सुरक्षित है?",
+        "id": "🕵️‍♂️ Apakah tempat Anda masih aman?",
+        "ja": "🕵️‍♂️ あなたの場所はまだ安全ですか？",
+        "ko": "🕵️‍♂️ 당신의 장소는 아직 안전한가요?",
+        "pt": "🕵️‍♂️ Seu local ainda está seguro?",
+        "vi": "🕵️‍♂️ Nơi của bạn vẫn an toàn chứ?",
+        "zh": "🕵️‍♂️ 您的场所还安全吗？"
+      },
+      "titleSub": {
+        "en": "Do a quick hidden camera scan now!",
+        "ar": "قم بفحص سريع للكاميرات المخفية الآن!",
+        "bn": "এখন একটি দ্রুত লুকানো ক্যামেরা স্ক্যান করুন!",
+        "de": "Führen Sie jetzt einen schnellen Scan nach versteckten Kameras durch!",
+        "es": "¡Haz un escaneo rápido de cámaras ocultas ahora!",
+        "fr": "Faites un scan rapide des caméras cachées maintenant!",
+        "hi": "अभी छिपी हुई कैमरों का त्वरित स्कैन करें!",
+        "id": "Lakukan pemindaian kamera tersembunyi cepat sekarang!",
+        "ja": "今すぐ隠しカメラのクイックスキャンを実行してください！",
+        "ko": "지금 숨겨진 카메라의 빠른 스캔을 수행하세요!",
+        "pt": "Faça uma verificação rápida de câmeras ocultas agora!",
+        "vi": "Hãy quét nhanh camera ẩn ngay bây giờ!",
+        "zh": "立即进行快速隐藏摄像头扫描！"
+      }
+    },
+    {
+      "id": 7,
+      "image": null,
+      "hour": 21,
+      "minute": 30,
+      "daysOfWeek": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "button": {
+        "text": {
+          "en": "Scan",
+          "ar": "مسح",
+          "bn": "স্ক্যান",
+          "de": "Scannen",
+          "es": "Escanear",
+          "fr": "Scanner",
+          "hi": "स्कैन",
+          "id": "Pindai",
+          "ja": "スキャン",
+          "ko": "스캔",
+          "pt": "Escanear",
+          "vi": "Quét",
+          "zh": "扫描"
+        }
+      },
+      "title": {
+        "en": "🌙 Night Safety Check",
+        "ar": "🌙 فحص السلامة الليلي",
+        "bn": "🌙 রাতের নিরাপত্তা পরীক্ষা",
+        "de": "🌙 Nachtsicherheitsprüfung",
+        "es": "🌙 Verificación de seguridad nocturna",
+        "fr": "🌙 Vérification de sécurité nocturne",
+        "hi": "🌙 रात की सुरक्षा जांच",
+        "id": "🌙 Pemeriksaan Keamanan Malam",
+        "ja": "🌙 夜間セキュリティチェック",
+        "ko": "🌙 야간 보안 검사",
+        "pt": "🌙 Verificação de Segurança Noturna",
+        "vi": "🌙 Kiểm tra an toàn ban đêm",
+        "zh": "🌙 夜间安全检查"
+      },
+      "titleSub": {
+        "en": "Scan your bedroom before sleep for hidden cameras.",
+        "ar": "امسح غرفتك قبل النوم بحثاً عن كاميرات مخفية.",
+        "bn": "লুকানো ক্যামেরার জন্য ঘুমানোর আগে আপনার শয়নকক্ষ স্ক্যান করুন।",
+        "de": "Scannen Sie Ihr Schlafzimmer vor dem Schlafengehen nach versteckten Kameras.",
+        "es": "Escanea tu dormitorio antes de dormir en busca de cámaras ocultas.",
+        "fr": "Scannez votre chambre avant de dormir pour détecter les caméras cachées.",
+        "hi": "छिपी हुई कैमरों के लिए सोने से पहले अपनी बेडरूम स्कैन करें।",
+        "id": "Pindai kamar tidur Anda sebelum tidur untuk mencari kamera tersembunyi.",
+        "ja": "寝る前に寝室をスキャンして隠しカメラを探しましょう。",
+        "ko": "자는 전에 침실을 스캔하여 숨겨진 카메라를 찾으세요.",
+        "pt": "Escaneie seu quarto antes de dormir em busca de câmeras ocultas.",
+        "vi": "Quét phòng ngủ trước khi ngủ để tìm camera ẩn.",
+        "zh": "睡觉前扫描您的卧室寻找隐藏摄像头。"
+      }
+    }
+  ],
+  "event_type": [
+    {
+      "id": "1",
+      "image": false,
+      "button": {
+        "text": {
+          "en": "Check",
+          "ar": "تحقق",
+          "bn": "চেক",
+          "de": "Prüfen",
+          "es": "Verificar",
+          "fr": "Vérifier",
+          "hi": "जांच",
+          "id": "Periksa",
+          "ja": "チェック",
+          "ko": "확인",
+          "pt": "Verificar",
+          "vi": "Kiểm tra",
+          "zh": "检查"
+        }
+      },
+      "title": {
+        "en": "📡 New Devices on WiFi?",
+        "ar": "📡 أجهزة جديدة على WiFi؟",
+        "bn": "📡 ওয়াইফাইতে নতুন ডিভাইস?",
+        "de": "📡 Neue Geräte im WLAN?",
+        "es": "¿Dispositivos nuevos en WiFi?",
+        "fr": "📡 Nouveaux appareils sur WiFi ?",
+        "hi": "📡 वाईफाई पर नए डिवाइस?",
+        "id": "📡 Perangkat Baru di WiFi?",
+        "ja": "📡 WiFiに新しいデバイス？",
+        "ko": "📡 WiFi에 새 장치?",
+        "pt": "📡 Novos dispositivos no WiFi?",
+        "vi": "📡 Thiết bị mới trên WiFi?",
+        "zh": "📡 WiFi上有新设备？"
+      },
+      "titleSub": {
+        "en": "Check if someone new connected overnight.",
+        "ar": "تحقق من اتصال شخص جديد طوال الليل.",
+        "bn": "কেউ নতুন রাতারাতি সংযুক্ত হয়েছে কিনা তা চেক করুন।",
+        "de": "Prüfen Sie, ob jemand Neues über Nacht verbunden wurde.",
+        "es": "Verifica si alguien nuevo se conectó durante la noche.",
+        "fr": "Vérifiez si quelqu'un de nouveau s'est connecté pendant la nuit.",
+        "hi": "जांचें कि रात भर कोई नया कनेक्ट हुआ है या नहीं।",
+        "id": "Periksa apakah seseorang yang baru terhubung semalaman.",
+        "ja": "誰かが一晩中接続したかどうかを確認してください。",
+        "ko": "누군가가 밤새 연결되었는지 확인하세요.",
+        "pt": "Verifique se alguém novo se conectou durante a noite.",
+        "vi": "Kiểm tra xem có ai mới kết nối qua đêm không.",
+        "zh": "检查是否有人在夜间新连接。"
+      }
+    },
+    {
+      "id": "2",
+      "image": false,
+      "button": {
+        "text": {
+          "en": "Start",
+          "ar": "ابدأ",
+          "bn": "শুরু",
+          "de": "Starten",
+          "es": "Comenzar",
+          "fr": "Commencer",
+          "hi": "शुरू",
+          "id": "Mulai",
+          "ja": "スタート",
+          "ko": "시작",
+          "pt": "Iniciar",
+          "vi": "Bắt đầu",
+          "zh": "开始"
+        }
+      },
+      "title": {
+        "en": "🔔 Protect your privacy today",
+        "ar": "🔔 احمِ خصوصيتك اليوم",
+        "bn": "🔔 আজ আপনার গোপনীয়তা রক্ষা করুন",
+        "de": "🔔 Schützen Sie Ihre Privatsphäre heute",
+        "es": "🔔 Protege tu privacidad hoy",
+        "fr": "🔔 Protégez votre vie privée aujourd'hui",
+        "hi": "🔔 आज अपनी गोपनीयता की रक्षा करें",
+        "id": "🔔 Lindungi privasi Anda hari ini",
+        "ja": "🔔 今日プライバシーを守る",
+        "ko": "🔔 오늘 개인 정보를 보호하세요",
+        "pt": "🔔 Proteja sua privacidade hoje",
+        "vi": "🔔 Bảo vệ quyền riêng tư của bạn hôm nay",
+        "zh": "🔔 今天保护您的隐私"
+      },
+      "titleSub": {
+        "en": "Haven't scanned recently? Make sure you're still safe.",
+        "ar": "لم تقم بالفحص مؤخراً؟ تأكد من أنك لا تزال آمناً.",
+        "bn": "সম্প্রতি স্ক্যান করেননি? নিশ্চিত করুন যে আপনি এখনও নিরাপদ।",
+        "de": "Haben Sie nicht kürzlich gescannt? Stellen Sie sicher, dass Sie noch sicher sind.",
+        "es": "¿No has escaneado recientemente? Asegúrate de que sigues seguro.",
+        "fr": "Vous n'avez pas scanné récemment ? Assurez-vous que vous êtes toujours en sécurité.",
+        "hi": "हाल ही में स्कैन नहीं किया? सुनिश्चित करें कि आप अभी भी सुरक्षित हैं।",
+        "id": "Belum memindai akhir-akhir ini? Pastikan Anda masih aman.",
+        "ja": "最近スキャンしていませんか？まだ安全であることを確認してください。",
+        "ko": "최근에 스캔하지 않으셨나요? 여전히 안전한지 확인하세요.",
+        "pt": "Não escaneou recentemente? Certifique-se de que ainda está seguro.",
+        "vi": "Chưa quét gần đây? Hãy đảm bảo bạn vẫn an toàn.",
+        "zh": "最近没有扫描？确保您仍然安全。"
+      }
+    },
+    {
+      "id": "3",
+      "image": false,
+      "button": {
+        "text": {
+          "en": "Claim",
+          "ar": "استلام",
+          "bn": "দাবি করুন",
+          "de": "Beanspruchen",
+          "es": "Reclamar",
+          "fr": "Réclamer",
+          "hi": "दावा करें",
+          "id": "Klaim",
+          "ja": "受け取る",
+          "ko": "청구",
+          "pt": "Reivindicar",
+          "vi": "Nhận",
+          "zh": "领取"
+        }
+      },
+      "title": {
+        "en": "🎁 Welcome Back Gift",
+        "ar": "🎁 هدية العودة",
+        "bn": "🎁 স্বাগতম উপহার",
+        "de": "🎁 Willkommensgeschenk",
+        "es": "🎁 Regalo de bienvenida",
+        "fr": "🎁 Cadeau de bienvenue",
+        "hi": "🎁 वापसी उपहार",
+        "id": "🎁 Hadiah Sambutan",
+        "ja": "🎁 ウェルカムバックギフト",
+        "ko": "🎁 환영 선물",
+        "pt": "🎁 Presente de boas-vindas",
+        "vi": "🎁 Quà chào mừng trở lại",
+        "zh": "🎁 欢迎回来礼物"
+      },
+      "titleSub": {
+        "en": "Get a free advanced WiFi scan today!",
+        "ar": "احصل على فحص WiFi متقدم مجاني اليوم!",
+        "bn": "আজ একটি বিনামূল্যে উন্নত ওয়াইফাই স্ক্যান পান!",
+        "de": "Holen Sie sich heute einen kostenlosen erweiterten WLAN-Scan!",
+        "es": "¡Obtén un escaneo WiFi avanzado gratis hoy!",
+        "fr": "Obtenez un scan WiFi avancé gratuit aujourd'hui!",
+        "hi": "आज एक मुफ्त उन्नत वाईफाई स्कैन प्राप्त करें!",
+        "id": "Dapatkan pemindaian WiFi lanjutan gratis hari ini!",
+        "ja": "今すぐ無料の高度なWiFiスキャンをゲット！",
+        "ko": "오늘 무료 고급 WiFi 스캔을 받으세요!",
+        "pt": "Obtenha uma verificação WiFi avançada gratuita hoje!",
+        "vi": "Nhận quét WiFi nâng cao miễn phí ngay hôm nay!",
+        "zh": "立即获得免费的高级WiFi扫描！"
+      }
+    },
+    {
+      "id": "4",
+      "image": false,
+      "button": {
+        "text": {
+          "en": "Claim",
+          "ar": "استلام",
+          "bn": "দাবি করুন",
+          "de": "Beanspruchen",
+          "es": "Reclamar",
+          "fr": "Réclamer",
+          "hi": "दावा करें",
+          "id": "Klaim",
+          "ja": "受け取る",
+          "ko": "청구",
+          "pt": "Reivindicar",
+          "vi": "Nhận",
+          "zh": "领取"
+        }
+      },
+      "title": {
+        "en": "🎁 Welcome Back Bonus",
+        "ar": "🎁 مكافأة العودة",
+        "bn": "🎁 স্বাগতম বোনাস",
+        "de": "🎁 Willkommensbonus",
+        "es": "🎁 Bono de bienvenida",
+        "fr": "🎁 Bonus de bienvenue",
+        "hi": "🎁 वापसी बोनस",
+        "id": "🎁 Bonus Sambutan",
+        "ja": "🎁 ウェルカムバックボーナス",
+        "ko": "🎁 환영 보너스",
+        "pt": "🎁 Bônus de boas-vindas",
+        "vi": "🎁 Tiền thưởng chào mừng trở lại",
+        "zh": "🎁 欢迎回来奖金"
+      },
+      "titleSub": {
+        "en": "Reactivate now & get 1 free Pro scan.",
+        "ar": "أعد التفعيل الآن واحصل على فحص برو مجاني واحد.",
+        "bn": "এখন পুনরায় সক্রিয় করুন এবং 1টি বিনামূল্যে প্রো স্ক্যান পান।",
+        "de": "Reaktivieren Sie jetzt und erhalten Sie 1 kostenlosen Pro-Scan.",
+        "es": "Reactiva ahora y obtén 1 escaneo Pro gratis.",
+        "fr": "Réactivez maintenant et obtenez 1 scan Pro gratuit.",
+        "hi": "अभी पुनः सक्रिय करें और 1 मुफ्त प्रो स्कैन प्राप्त करें।",
+        "id": "Aktifkan ulang sekarang & dapatkan 1 pemindaian Pro gratis.",
+        "ja": "今すぐ再アクティブ化して1回の無料Proスキャンをゲット。",
+        "ko": "지금 재활성화하고 무료 Pro 스캔 1회를 받으세요.",
+        "pt": "Reative agora e ganhe 1 verificação Pro gratuita.",
+        "vi": "Kích hoạt lại ngay và nhận 1 lần quét Pro miễn phí.",
+        "zh": "立即重新激活并获得1次免费专业扫描。"
+      }
+    },
+    {
+      "id": "5",
+      "image": false,
+      "button": {
+        "text": {
+          "en": "Scan",
+          "ar": "مسح",
+          "bn": "স্ক্যান",
+          "de": "Scannen",
+          "es": "Escanear",
+          "fr": "Scanner",
+          "hi": "स्कैन",
+          "id": "Pindai",
+          "ja": "スキャン",
+          "ko": "스캔",
+          "pt": "Escanear",
+          "vi": "Quét",
+          "zh": "扫描"
+        }
+      },
+      "title": {
+        "en": "🌙 Nighttime Safety",
+        "ar": "🌙 سلامة الليل",
+        "bn": "🌙 রাতের নিরাপত্তা",
+        "de": "🌙 Nachtsicherheit",
+        "es": "🌙 Seguridad nocturna",
+        "fr": "🌙 Sécurité nocturne",
+        "hi": "🌙 रात की सुरक्षा",
+        "id": "🌙 Keamanan Malam Hari",
+        "ja": "🌙 夜間セキュリティ",
+        "ko": "🌙 야간 안전",
+        "pt": "🌙 Segurança noturna",
+        "vi": "🌙 An toàn ban đêm",
+        "zh": "🌙 夜间安全"
+      },
+      "titleSub": {
+        "en": "Make sure no hidden devices are active around you.",
+        "ar": "تأكد من عدم وجود أجهزة مخفية نشطة حولك.",
+        "bn": "নিশ্চিত করুন যে আপনার চারপাশে কোনো লুকানো ডিভাইস সক্রিয় নেই।",
+        "de": "Stellen Sie sicher, dass keine versteckten Geräte um Sie herum aktiv sind.",
+        "es": "Asegúrate de que no haya dispositivos ocultos activos a tu alrededor.",
+        "fr": "Assurez-vous qu'aucun appareil caché n'est actif autour de vous.",
+        "hi": "सुनिश्चित करें कि आपके आसपास कोई छिपा हुआ डिवाइस सक्रिय नहीं है।",
+        "id": "Pastikan tidak ada perangkat tersembunyi yang aktif di sekitar Anda.",
+        "ja": "周囲に隠しデバイスがアクティブでないことを確認してください。",
+        "ko": "주위에 숨겨진 장치가 활성화되지 않았는지 확인하세요.",
+        "pt": "Certifique-se de que nenhum dispositivo oculto esteja ativo ao seu redor.",
+        "vi": "Đảm bảo không có thiết bị ẩn nào hoạt động xung quanh bạn.",
+        "zh": "确保您周围没有隐藏设备处于活动状态。"
+      }
+    },
+    {
+      "id": "6",
+      "image": false,
+      "button": {
+        "text": {
+          "en": "Open",
+          "ar": "افتح",
+          "bn": "খুলুন",
+          "de": "Öffnen",
+          "es": "Abrir",
+          "fr": "Ouvrir",
+          "hi": "खोलें",
+          "id": "Buka",
+          "ja": "開く",
+          "ko": "열기",
+          "pt": "Abrir",
+          "vi": "Mở",
+          "zh": "打开"
+        }
+      },
+      "title": {
+        "en": "🔒 Stay Secure",
+        "ar": "🔒 ابق آمناً",
+        "bn": "🔒 নিরাপদ থাকুন",
+        "de": "🔒 Bleiben Sie sicher",
+        "es": "🔒 Mantente seguro",
+        "fr": "🔒 Restez sécurisé",
+        "hi": "🔒 सुरक्षित रहें",
+        "id": "🔒 Tetap Aman",
+        "ja": "🔒 安全を維持",
+        "ko": "🔒 안전 유지",
+        "pt": "🔒 Mantenha-se seguro",
+        "vi": "🔒 Giữ an toàn",
+        "zh": "🔒 保持安全"
+      },
+      "titleSub": {
+        "en": "Quick scan ensures your WiFi and camera safety.",
+        "ar": "الفحص السريع يضمن سلامة WiFi وكاميراك.",
+        "bn": "দ্রুত স্ক্যান আপনার ওয়াইফাই এবং ক্যামেরা নিরাপত্তা নিশ্চিত করে।",
+        "de": "Ein schneller Scan stellt die Sicherheit Ihres WLANs und Ihrer Kamera sicher.",
+        "es": "El escaneo rápido asegura la seguridad de tu WiFi y cámara.",
+        "fr": "Le scan rapide assure la sécurité de votre WiFi et caméra.",
+        "hi": "त्वरित स्कैन आपकी वाईफाई और कैमरा सुरक्षा सुनिश्चित करता है।",
+        "id": "Pemindaian cepat memastikan keamanan WiFi dan kamera Anda.",
+        "ja": "クイックスキャンでWiFiとカメラの安全性を確保。",
+        "ko": "빠른 스캔으로 WiFi와 카메라 안전성을 보장합니다.",
+        "pt": "A verificação rápida garante a segurança do seu WiFi e câmera.",
+        "vi": "Quét nhanh đảm bảo an toàn WiFi và camera của bạn.",
+        "zh": "快速扫描确保您的WiFi和摄像头安全。"
+      }
+    }
+  ]
+}
