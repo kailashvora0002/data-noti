@@ -131,6 +131,7 @@
             "image": false,
             "hours": 8,
             "minutes": 0,
+            "startAfterMinutes":0,
             "repeatIntervalMinutes":4320,
             "button": {
                 "text": {
